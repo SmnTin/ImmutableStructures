@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.6)
 project(immu
         VERSION 0.0.1
         DESCRIPTION "Header-only C++ library that provides some easy-to-use immutable data structures."
-        HOMEPAGE_URL "https://github.com/SmnTin/ImmutableStructures")
+        HOMEPAGE_URL "https://github.com/SmnTin/immu-cpp")
 
 set(CMAKE_CXX_STANDARD 17)
 
